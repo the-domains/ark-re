@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ark Re ]]></title>
         <description><![CDATA[Ark Re ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ark-re/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 05:47:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 05:48:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ark-re/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/ark-re/d6ecd0dd-9ebc-41c6-a73b-94becf93fdf5/index.html</link>
+            <guid isPermaLink="false">d6ecd0dd-9ebc-41c6-a73b-94becf93fdf5</guid>
+            <pubDate>Mon, 28 Mar 2016 05:48:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cb6d86f-d8fa-4850-96f9-c0ab1d716cd6.jpg">]]></description>
-            <link>undefinedthink-outside-the-box/index.html</link>
+            <link>https://thegrid.ai/ark-re/think-outside-the-box/index.html</link>
             <guid isPermaLink="false">31dee6cc-ad3e-40ae-a47b-ce18b52b1cde</guid>
             <pubDate>Mon, 28 Mar 2016 05:47:23 GMT</pubDate>
         </item>
