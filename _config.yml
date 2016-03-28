@@ -1,7 +1,7 @@
 name: 'Ark Re '
 favicon: null
-layout_spectrum: 0.44723051227629185
-typography_spectrum: 0.40874022198840976
+layout_spectrum: 0.15635
+typography_spectrum: 0.59532
 cta:
   domain: null
   bucket: null
