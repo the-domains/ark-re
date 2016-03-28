@@ -1,0 +1,28 @@
+name: 'Ark Re '
+favicon: null
+layout_spectrum: 0.44723051227629185
+typography_spectrum: 0.40874022198840976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6544370115734637
+  lightness: 0.5611428278498352
+  saturation: 0.5697310976684093
+  rhythmicContrast: 0.15922911907546222
+purpose: []
